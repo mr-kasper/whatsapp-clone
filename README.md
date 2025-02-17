@@ -1,4 +1,4 @@
-  <h1 align="center">Modern WhatsApp Clone with AI Features</h1>
+<h1 align="center">Modern WhatsApp Clone with AI Features</h1>
 
 <p align="center">
  A feature-rich WhatsApp clone
@@ -71,3 +71,7 @@ yarn dev
 ```
 
 Visit [http://localhost:3000](http://localhost:3000) to see your app.
+
+## Deployment
+
+[Live Demo](https://whatsapp-7.vercel.app/)
