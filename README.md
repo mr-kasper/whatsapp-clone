@@ -1,4 +1,4 @@
-<h1 align="center">Modern WhatsApp Clone with AI Features</h1>
+<h1 align="center">Modern WhatsApp Clone</h1>
 
 <p align="center">
  A feature-rich WhatsApp clone
